@@ -1,3 +1,5 @@
+import 'package:wavy_sellers_app/widgets/normal_text.dart';
+
 import '../../const/const.dart';
 
 class LoginScreen extends StatelessWidget {
@@ -10,7 +12,7 @@ class LoginScreen extends StatelessWidget {
       body: Padding(
         padding: const EdgeInsets.all(12.0),
         child: Column(
-          children: [],
+          children: [30.heightBox, normalText(text: welcome, size: 18.0)],
         ),
       ),
     );
