@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>451887675840-k58ag0nrfran34cdjiiiu0vusae9irb8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.451887675840-k58ag0nrfran34cdjiiiu0vusae9irb8</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>451887675840-q1ivmsfla8hktgdhmq3vku9i8hmer8g0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDLuQ_L--Ovkzm94tF9Bz0EsehvjK7MUMU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>451887675840</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wavySellersApp</string>
+	<key>PROJECT_ID</key>
+	<string>hack-to-future</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hack-to-future.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:451887675840:ios:11eb0a7d4adcb9fea13025</string>
+</dict>
+</plist>
