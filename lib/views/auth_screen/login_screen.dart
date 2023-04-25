@@ -9,11 +9,16 @@ class LoginScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: purpleColor,
-      body: Padding(
-        padding: const EdgeInsets.all(12.0),
-        child: Column(
-          children: [30.heightBox, normalText(text: welcome, size: 18.0)],
-        ),
+      body: SafeArea(
+        child: Padding(
+            padding: const EdgeInsets.all(12.0),
+            child: Column(
+              children: [
+                30.heightBox,
+                normalText(text: welcome, size: 18.0),
+                Image.asset(logo, width: 80, height: 80),
+              ],
+            )),
       ),
     );
   }
